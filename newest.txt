@@ -1,3 +1,4 @@
 First line in the newest.txt
 Second line in newest.txt
 Third line in newest.txt
+Fourth and most important line in newest.txt
